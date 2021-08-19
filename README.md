@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Java.</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Java, PHP POO básico, React básico.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Trello, GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, GitHub.</strong>
 </p>
 
 
