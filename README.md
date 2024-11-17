@@ -2,15 +2,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Meu nome é Wesley Rabachini Ribeiro. Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na FIAP. Procuro Estágio de Dev <strong>Front-End</strong>.
+  Olá, sou Wesley Rabachini Ribeiro, Analista e Desenvolvedor de Sistemas com 3 anos de experiência em tecnologia, atuando atualmente no Grupo GFT. Sou apaixonado por criar soluções inovadoras e escaláveis, com experiência no desenvolvimento completo de aplicações no Nubank</strong>.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, Bootstrap, Python, Java, React Js, Oracle SQL, Watson Assistant.</strong>
+  🦄 Habilidades: <strong>Arquitetura de Software (Hexagonal, Limpa, CQRS), Desenvolvimento de APIs REST, Microsserviços, Desenvolvimento Ágil de Software (Scrum), Práticas e Princípios de Design (DDD, SOLID, KISS, DRY), Clojure, ClojureScript, JavaScript, TypeScript, Java, Kotlin, Python, Spring Boot, Next.js, Integração Contínua e Deploy Contínuo, Testes de Software</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, GitHub, Jira, Docker, Kubernetes</strong>
 </p>
 
 
