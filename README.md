@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá, sou Wesley Rabachini Ribeiro, Analista e Desenvolvedor de Sistemas com 3 anos de experiência em tecnologia, atuando atualmente no Grupo GFT. Sou apaixonado por criar soluções inovadoras e escaláveis, com experiência no desenvolvimento completo de aplicações no Nubank</strong>.
+  Olá, sou Wesley Rabachini Ribeiro, Analista e Desenvolvedor de Sistemas com 3 anos de experiência em tecnologia, atuando atualmente no Grupo GFT. Sou apaixonado por criar soluções inovadoras e escaláveis, com experiência no desenvolvimento completo de aplicações</strong>.
 </p>
 
 <p align="left">
